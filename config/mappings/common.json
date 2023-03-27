@@ -1,0 +1,12 @@
+{
+  "Header logo": "[data-id='header-logo']",
+  "name": "[data-id='name']",
+  "gender": "[data-id='gender']",
+  "phone": "[data-id='phone']",
+  "street": "[data-id='street']",
+  "city": "[data-id='city']",
+  "save button": "[data-id='save-button']",
+  "playground button": "[data-id='playground-button']",
+  "error element": "[data-test='error']",
+  "header container": "[id='header_container']"
+}

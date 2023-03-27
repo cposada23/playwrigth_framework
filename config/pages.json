@@ -1,0 +1,19 @@
+{
+  "create contact": {
+    "route": "/tasks/create/",
+    "regex": "^/tasks/create$"
+
+  },
+  "playground": {
+    "route": "/playground",
+    "regex": "^/playground$"
+  },
+  "login": {
+    "route": "/",
+    "regex": "^/$"
+  },
+  "inventory": {
+    "route": "/inventory.html",
+    "regex": "^/inventory.html$"
+  }
+}
